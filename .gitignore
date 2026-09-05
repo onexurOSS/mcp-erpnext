@@ -4,6 +4,7 @@ dist-node/
 src/ui/dist/
 src/ui/node_modules/
 .env*
+!.env.example
 .vscode/
 .mcp.json
 .stitch
